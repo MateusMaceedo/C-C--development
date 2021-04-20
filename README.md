@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://solvimm.com/wp-content/uploads/2019/01/DestacadaBlog_16.png" width="1160" height="648">
+<img src="https://blog.fortestecnologia.com.br/wp-content/uploads/2020/01/fortes-tecnologia-inteligencia-artificial.png" width="1200" height="627">
  <br>
 </h1>
 
